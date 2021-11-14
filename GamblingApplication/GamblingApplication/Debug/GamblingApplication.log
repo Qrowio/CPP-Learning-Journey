@@ -1,0 +1,4 @@
+﻿  GamblingApplication.cpp
+C:\Users\Qrow\source\repos\GamblingApplication\GamblingApplication\GamblingApplication.cpp(57,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Qrow\source\repos\GamblingApplication\GamblingApplication\GamblingApplication.cpp(75,8): warning C4102: 'restart': unreferenced label
+  GamblingApplication.vcxproj -> C:\Users\Qrow\source\repos\GamblingApplication\Debug\GamblingApplication.exe

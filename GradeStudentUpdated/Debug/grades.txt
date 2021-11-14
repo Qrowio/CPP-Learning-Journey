@@ -1,0 +1,4 @@
+english - 80
+maths - 30
+history - 50
+pe - 90

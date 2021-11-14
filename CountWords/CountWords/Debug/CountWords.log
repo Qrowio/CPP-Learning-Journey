@@ -1,0 +1,3 @@
+﻿  CountWords.cpp
+C:\Users\Qrow\source\repos\CountWords\CountWords\CountWords.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
+  CountWords.vcxproj -> C:\Users\Qrow\source\repos\CountWords\Debug\CountWords.exe

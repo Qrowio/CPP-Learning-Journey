@@ -1,0 +1,12 @@
+﻿  LearningIMGUI.cpp
+C:\Users\Qrow\source\repos\LearningIMGUI\LearningIMGUI\LearningIMGUI.cpp(168,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Qrow\source\repos\LearningIMGUI\LearningIMGUI\LearningIMGUI.cpp(168,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  LearningIMGUI.vcxproj -> C:\Users\Qrow\source\repos\LearningIMGUI\Debug\LearningIMGUI.exe

@@ -1,0 +1,6 @@
+﻿  GradeStudentUpdated.cpp
+C:\Users\Qrow\source\repos\GradeStudentUpdated\GradeStudentUpdated\gui.hpp(6,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Qrow\source\repos\GradeStudentUpdated\GradeStudentUpdated\GradeStudentUpdated.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Qrow\source\repos\GradeStudentUpdated\GradeStudentUpdated\gui.hpp(124,26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Qrow\source\repos\GradeStudentUpdated\GradeStudentUpdated\GradeStudentUpdated.cpp(49,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GradeStudentUpdated.vcxproj -> C:\Users\Qrow\source\repos\GradeStudentUpdated\Debug\GradeStudentUpdated.exe

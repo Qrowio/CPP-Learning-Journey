@@ -1,0 +1,4 @@
+﻿  AnimeInfo.cpp
+C:\Users\Qrow\source\repos\AnimeInfo\AnimeInfo\AnimeInfo.cpp(34,39): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Qrow\source\repos\AnimeInfo\AnimeInfo\AnimeInfo.cpp(126,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  AnimeInfo.vcxproj -> C:\Users\Qrow\source\repos\AnimeInfo\Debug\AnimeInfo.exe

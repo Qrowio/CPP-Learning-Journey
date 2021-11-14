@@ -1,0 +1,3 @@
+﻿  CountVowels.cpp
+C:\Users\Qrow\source\repos\CountVowels\CountVowels\CountVowels.cpp(10,23): warning C4018: '<=': signed/unsigned mismatch
+  CountVowels.vcxproj -> C:\Users\Qrow\source\repos\CountVowels\Debug\CountVowels.exe

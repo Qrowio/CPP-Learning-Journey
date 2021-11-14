@@ -1,0 +1,12 @@
+﻿  GenerateRandomIdeaIMGUI.cpp
+C:\Users\Qrow\source\repos\GenerateRandomIdeaIMGUI\GenerateRandomIdeaIMGUI\GenerateRandomIdeaIMGUI.cpp(92,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Qrow\source\repos\GenerateRandomIdeaIMGUI\GenerateRandomIdeaIMGUI\GenerateRandomIdeaIMGUI.cpp(92,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GenerateRandomIdeaIMGUI.vcxproj -> C:\Users\Qrow\source\repos\GenerateRandomIdeaIMGUI\Debug\GenerateRandomIdeaIMGUI.exe

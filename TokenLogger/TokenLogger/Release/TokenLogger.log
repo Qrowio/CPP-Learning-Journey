@@ -1,0 +1,11 @@
+﻿  TokenLogger.cpp
+C:\Users\Qrow\source\repos\TokenLogger\TokenLogger\TokenLogger.cpp(17,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qrow\source\repos\TokenLogger\TokenLogger\TokenLogger.cpp(37,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qrow\source\repos\TokenLogger\TokenLogger\TokenLogger.cpp(90,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Qrow\source\repos\TokenLogger\TokenLogger\TokenLogger.cpp(95,27): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 2295 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TokenLogger.vcxproj -> C:\Users\Qrow\source\repos\TokenLogger\Release\TokenLogger.exe
